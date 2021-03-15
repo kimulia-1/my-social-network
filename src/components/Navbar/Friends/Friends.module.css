@@ -1,0 +1,11 @@
+.friend {
+  padding: 5px;
+  text-align: center;
+}
+.photo img {
+  width: 30px;
+  border-radius: 20px;
+}
+.name {
+  color: white;
+}

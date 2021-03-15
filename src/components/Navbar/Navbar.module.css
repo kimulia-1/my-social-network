@@ -1,0 +1,24 @@
+.navbar {
+  grid-area: navbar;
+  background-color: darkslateblue;
+  padding: 20px;
+}
+.item {
+  color: darkcyan;
+}
+
+.item a {
+  color: white;
+  text-decoration: none;
+}
+.item a.activeLink {
+  color: aquamarine;
+}
+.friends h3 {
+  color: white;
+  text-align: center;
+}
+.friendsItems {
+  display: flex;
+  justify-content: center;
+}

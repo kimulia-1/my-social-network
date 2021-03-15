@@ -1,0 +1,25 @@
+.aboutUser {
+  padding: 10px;
+  background-color: khaki;
+}
+.userTitle {
+  width: 970px;
+  height: 200px;
+}
+.userTitle img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: 0 0;
+}
+.profile {
+  display: grid;
+  grid-template-columns: 1fr 11fr;
+}
+.avatar img {
+  width: 60px;
+  height: 60px;
+}
+.discription {
+  padding-left: 0px;
+}
